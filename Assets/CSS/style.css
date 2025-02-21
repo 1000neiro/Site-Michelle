@@ -1,0 +1,17 @@
+.title{
+    height: 150px;
+    width: 150px;
+    background-color: aqua;
+    font-style: italic;
+    align-items:center ;
+    border-radius: 10px;
+}
+
+.button-home {
+    display: flex;
+    background-color: rgb(91, 22, 219);
+    position: fixed;
+    top: 30px;
+    border-radius: 20px;
+
+}
